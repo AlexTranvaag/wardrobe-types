@@ -1,0 +1,16 @@
+{
+  "name": "wardrobe-types",
+  "version": "1.0.0",
+  "description": "Types repository for Cornell Wardrobe",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTranvaag/wardrobe-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTranvaag/wardrobe-types/issues"
+  },
+  "homepage": "https://github.com/AlexTranvaag/wardrobe-types#readme"
+}
