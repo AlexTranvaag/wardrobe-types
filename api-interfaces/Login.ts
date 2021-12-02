@@ -6,7 +6,7 @@ export namespace Login {
         authToken: string;
     }
 
-    export interface Response {
+    export interface Response extends IApiResponse{
         jwt: string;
     }
 }
