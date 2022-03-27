@@ -1,6 +1,6 @@
 import { IItem } from "../model-interfaces/IItem";
 
-export namespace Login {
+export namespace CreateItem {
     export interface Request {
         fit: number;
         type: string;
