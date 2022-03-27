@@ -8,7 +8,8 @@ export namespace CreateItem {
         color: string;
     }
 
-    export interface Response extends IItem{
+    export interface Response {
         success: boolean;
+        item?: IItem;
     }
 }
